@@ -22,9 +22,6 @@ Java |  Java, OOP, Games, RestAPI
 
 
 
-Some of the Coursera certificates: https://www.youracclaim.com/users/roberta-btt
-
-
 - 📫 How to reach me: my linkedin profile: https://www.linkedin.com/in/robyb/
 
 <!--
