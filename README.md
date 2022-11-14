@@ -26,6 +26,7 @@ https://github.com/RobertaBtt/PyThreeTest |
 
 API with Python |
 ------------- |
+https://github.com/RobertaBtt/django-template |
 https://github.com/RobertaBtt/PythonFlaskAPIFile |
 https://github.com/RobertaBtt/PythonFlaskMastermindGame |
 https://github.com/RobertaBtt/PythonFlaskMusicBrainz |
