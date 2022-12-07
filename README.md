@@ -22,6 +22,7 @@ https://github.com/RobertaBtt/PythonCleanArchitecture |
 https://github.com/RobertaBtt/PythonRateCalculator |
 https://github.com/RobertaBtt/PyBikeHire |
 https://github.com/RobertaBtt/PyThreeTest |
+https://github.com/RobertaBtt/PythonDesignPatterns |
 
 
 API with Python |
