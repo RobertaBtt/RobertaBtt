@@ -14,8 +14,6 @@ Python ![](Python.png)|
 ------------- |
 https://github.com/RobertaBtt/PythonEnergyBilling |
 https://github.com/RobertaBtt/PythonMarsRover |
-https://github.com/RobertaBtt/PythonDjangoNearbyShops |
-https://github.com/RobertaBtt/django_app_smart_meters |
 https://github.com/RobertaBtt/PythonCoinsAndFileParser |
 https://github.com/RobertaBtt/PythonProblemSolving |
 https://github.com/RobertaBtt/PythonCleanArchitecture |
@@ -24,15 +22,20 @@ https://github.com/RobertaBtt/PyBikeHire |
 https://github.com/RobertaBtt/PyThreeTest |
 https://github.com/RobertaBtt/PythonDesignPatterns |
 
+<img src="https://raw.githubusercontent.com/RobertaBtt/RobertaBtt/main/django.jpg" width="50" height="25" /> |
+------------- |
+https://github.com/RobertaBtt/PythonDjangoNearbyShops |
+https://github.com/RobertaBtt/django-template |
+https://github.com/RobertaBtt/PythonDjangoAPIRecipe |
+https://github.com/RobertaBtt/django_app_smart_meters |
+
 
 API with Python |
 ------------- |
-https://github.com/RobertaBtt/django-template |
 https://github.com/RobertaBtt/PythonFlaskAPIFile |
 https://github.com/RobertaBtt/PythonFlaskMastermindGame |
 https://github.com/RobertaBtt/PythonFlaskMusicBrainz |
 https://github.com/RobertaBtt/PythonFlaskOpenAPIDemo |
-https://github.com/RobertaBtt/PythonDjangoAPIRecipe |
 https://github.com/RobertaBtt/PythonOpenWeather |
 
 Data with Python |
