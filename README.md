@@ -12,15 +12,16 @@ _Climate Change aware._
 
 Python ![](Python.png)|
 ------------- |
+https://github.com/RobertaBtt/PythonDesignPatterns |
+https://github.com/RobertaBtt/PythonCleanArchitecture |
 https://github.com/RobertaBtt/PythonEnergyBilling |
 https://github.com/RobertaBtt/PythonMarsRover |
 https://github.com/RobertaBtt/PythonCoinsAndFileParser |
 https://github.com/RobertaBtt/PythonProblemSolving |
-https://github.com/RobertaBtt/PythonCleanArchitecture |
 https://github.com/RobertaBtt/PythonRateCalculator |
 https://github.com/RobertaBtt/PyBikeHire |
 https://github.com/RobertaBtt/PyThreeTest |
-https://github.com/RobertaBtt/PythonDesignPatterns |
+
 
 <img src="https://raw.githubusercontent.com/RobertaBtt/RobertaBtt/main/django.jpg" width="50" height="25" /> |
 ------------- |
@@ -28,7 +29,6 @@ https://github.com/RobertaBtt/PythonDjangoNearbyShops |
 https://github.com/RobertaBtt/django-template |
 https://github.com/RobertaBtt/PythonDjangoAPIRecipe |
 https://github.com/RobertaBtt/django_app_smart_meters |
-
 
 API with Python |
 ------------- |
@@ -44,6 +44,8 @@ https://github.com/RobertaBtt/PythonConvertJsontoCsv |
 https://github.com/RobertaBtt/PythonDataScience |
 https://github.com/RobertaBtt/erp_dynamodb_connector |
 https://github.com/RobertaBtt/etl_smart_meters |
+https://github.com/RobertaBtt/SQLUnifyLearning |
+
 
 
 Java |
