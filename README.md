@@ -23,16 +23,17 @@ _Climate Change aware._
 
 
 
-| Python Exercises ![](Python.png)                                        |
-|-------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/python-service-grocery-orders (exercise)  |
-| https://github.com/RobertaBtt/PythonEnergyBilling  (exercise)           |
-| https://github.com/RobertaBtt/PythonMarsRover (exercise)                |
-| https://github.com/RobertaBtt/PythonCoinsAndFileParser                  |
-| https://github.com/RobertaBtt/PythonProblemSolving (HackerRank)         |
-| https://github.com/RobertaBtt/PythonRateCalculator (exercise)           |
-| https://github.com/RobertaBtt/PyBikeHire (exercise)                     |
-| https://github.com/RobertaBtt/PyThreeTest (exercise)                    |
+| Python Exercises ![](Python.png)                                          |
+|---------------------------------------------------------------------------|
+| https://github.com/RobertaBtt/python-data-collector    (exercise)         |
+| https://github.com/RobertaBtt/python-service-grocery-orders (exercise)    |
+| https://github.com/RobertaBtt/PythonEnergyBilling  (exercise)             |
+| https://github.com/RobertaBtt/PythonMarsRover (exercise)                  |
+| https://github.com/RobertaBtt/PythonCoinsAndFileParser                    |
+| https://github.com/RobertaBtt/PythonProblemSolving (HackerRank)           |
+| https://github.com/RobertaBtt/PythonRateCalculator (exercise)             |
+| https://github.com/RobertaBtt/PyBikeHire (exercise)                       |
+| https://github.com/RobertaBtt/PyThreeTest (exercise)                      |
 
 
 | ![django.jpg](django.jpg)                                                              |
