@@ -3,7 +3,7 @@
 
 `This profile is Global Warming Aware ✔️`
 
-![Logo_No_planetB](Logo_No_planet.png)
+
 ------------------------------------------------------------------
 - **B.Sc. Computer Science**
 - Software Engineer (mid-senior)
@@ -86,3 +86,4 @@
 | https://github.com/RobertaBtt/venera              |
 
 
+![Logo_No_planetB](Logo_No_planet.png)
