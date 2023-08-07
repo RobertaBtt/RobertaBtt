@@ -1,18 +1,18 @@
 
 ![HelloFriendMrRobot](MrRobot.png)
 
-
-------------------------------------------------------------------
-
-**B.Sc. Computer Science**, focused on **Python** and **Data Analytics**
- 
-
----------------------------------------------------------------------------
-
-
-_Climate Change aware._
+`This profile is Global Warming Aware ✔️`
 
 ![Logo_No_planetB](Logo_No_planet.png)
+------------------------------------------------------------------
+- **B.Sc. Computer Science**
+- Software Engineer (mid-senior)
+- Student Master's degree in Artificial Intelligence. Model management and implementation
+- **Python** developer
+- **Data Engineer** student
+ 
+---------------------------------------------------------------------------
+
 
 
 | Best Practices ☑                                                         |
