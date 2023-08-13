@@ -3,6 +3,7 @@
 
 `This profile is Global Warming Aware ✔️`
 
+ <img src="Logo_No_planet.png" alt="NoPlanetB" style="width:90px;"/>
 
 ------------------------------------------------------------------
 - **B.Sc. Computer Science**
@@ -14,66 +15,64 @@
 ---------------------------------------------------------------------------
 
 
-
-| Best Practices ☑                                                         |
-|--------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/PythonDesignPatterns (study)               |
-| https://github.com/RobertaBtt/PythonCleanArchitecture (exercise)         |
-| https://github.com/RobertaBtt/adaptive-python-service (service template) |
-
-
-
-| Python Exercises ![](Python.png)                                          |
+| Work experiences     <img src="jobs.png" alt="work" style="width:50px;"/> |
 |---------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/python-data-collector    (exercise)         |
-| https://github.com/RobertaBtt/python-service-grocery-orders (exercise)    |
-| https://github.com/RobertaBtt/PythonEnergyBilling  (exercise)             |
-| https://github.com/RobertaBtt/PythonMarsRover (exercise)                  |
-| https://github.com/RobertaBtt/PythonCoinsAndFileParser                    |
-| https://github.com/RobertaBtt/PythonProblemSolving (HackerRank)           |
-| https://github.com/RobertaBtt/PythonRateCalculator (exercise)             |
-| https://github.com/RobertaBtt/PyBikeHire (exercise)                       |
-| https://github.com/RobertaBtt/PyThreeTest (exercise)                      |
+| [Consultancy](Cpgm_hp%2FREADME.md)                                        |
+| [Startup in Circular Economy](Verone%2FREADME.md)                         |
+| [Fintech startup](Touche%2FREADME.md)                                     |
+| [Energy Sector](Energy%2FREADME.md)                                       |
+| [Past jobs](jobs_2005_2016%2FREADME.md)                              |
 
+_**I love studying !**_
 
-| ![django.jpg](django.jpg)                                                              |
-|----------------------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/PythonDjangoNearbyShops (Updating in progress)           |
-| https://github.com/RobertaBtt/django-template (my template for django services)        |
-| https://github.com/RobertaBtt/PythonDjangoAPIRecipe (From Udemy)                       |
-| https://github.com/RobertaBtt/django_app_smart_meters (From past job in Energy sector) |
+| Study  <img src="book.png" alt="book" style="width:60px;"/>  |
+|--------------------------------------------------------------|
+| [Data Engineering](DataEngineering%2FREADME.md)              |
+| [Artificial Itelligence](ArtificialIntelligence%2FREADME.md) |
 
-| API with Python                                                    |
-|--------------------------------------------------------------------|
-| https://github.com/RobertaBtt/PythonFlaskAPIFile (exercise)        |
-| https://github.com/RobertaBtt/PythonFlaskMastermindGame (exercise) |
-| https://github.com/RobertaBtt/PythonFlaskMusicBrainz (exercise)    |
-| https://github.com/RobertaBtt/PythonFlaskOpenAPIDemo (exercise)    |
-| https://github.com/RobertaBtt/PythonOpenWeather (exercise)         |
+_**I love solving problems !**_
 
-| Data with Python                                                                   |
-|------------------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/PythonConvertJsontoCsv (exercise)                    |
-| https://github.com/RobertaBtt/PythonDataScience (study)                            |
-| https://github.com/RobertaBtt/erp_dynamodb_connector   (from job in Energy sector) |
-| https://github.com/RobertaBtt/etl_smart_meters   (from job in Energy sector)       |
-| https://github.com/RobertaBtt/SQLUnifyLearning  (study)                            |
-
-
-
-| Java                                                                         |
+| Coding Practices ![Python](Python.png)                                       |
 |------------------------------------------------------------------------------|
-| https://github.com/RobertaBtt/JavaPaymentMicroservice  (from Job in Fintech) |
-| https://github.com/RobertaBtt/micros_integration (from Job in Fintech)       |
-| https://github.com/RobertaBtt/JavaPythonQuizzes                              |
-| https://github.com/RobertaBtt/JavaConferenceManager                          |
-| https://github.com/RobertaBtt/JavaSudokuGame                                 |
-| https://github.com/RobertaBtt/JavaVendingMachine                             |
-| https://github.com/RobertaBtt/JavaRestAPITopicSubscribe                      |
-| https://github.com/RobertaBtt/JavaContactsBirthday                           |
-| https://github.com/RobertaBtt/JavaIntegersZipper                             |
-| https://github.com/RobertaBtt/JavaHttpRandomHex                              |
-| https://github.com/RobertaBtt/JavaFileSearch                                 |
+| https://github.com/RobertaBtt/PythonDesignPatterns                   |
+| https://github.com/RobertaBtt/PythonCleanArchitecture           |
+| https://github.com/RobertaBtt/adaptive-python-service     |
+| https://github.com/RobertaBtt/python-service-grocery-orders      |
+| https://github.com/RobertaBtt/PythonEnergyBilling            |
+| https://github.com/RobertaBtt/PythonMarsRover                 |
+| https://github.com/RobertaBtt/PythonCoinsAndFileParser                       |
+| https://github.com/RobertaBtt/PythonProblemSolving (HackerRank)              |
+| https://github.com/RobertaBtt/PythonRateCalculator                |
+| https://github.com/RobertaBtt/PyBikeHire                          |
+| https://github.com/RobertaBtt/PyThreeTest                       |
+| **API with Python**                                                          |
+| https://github.com/RobertaBtt/PythonFlaskAPIFile                             |
+| https://github.com/RobertaBtt/PythonFlaskMastermindGame                      |
+| https://github.com/RobertaBtt/PythonFlaskMusicBrainz                         |
+| https://github.com/RobertaBtt/PythonFlaskOpenAPIDemo                         |
+| https://github.com/RobertaBtt/PythonOpenWeather                              |
+| <img src="django.png" alt="django" style="width:60px;"/>                     |
+| https://github.com/RobertaBtt/PythonDjangoNearbyShops (Updating in progress) |
+| https://github.com/RobertaBtt/django-template                                |
+| https://github.com/RobertaBtt/PythonDjangoAPIRecipe                          |
+| https://github.com/RobertaBtt/django_app_smart_meters                        |
+
+
+
+
+| Java                                                    |
+|---------------------------------------------------------|
+| https://github.com/RobertaBtt/JavaPaymentMicroservice   |
+| https://github.com/RobertaBtt/micros_integration        |
+| https://github.com/RobertaBtt/JavaPythonQuizzes         |
+| https://github.com/RobertaBtt/JavaConferenceManager     |
+| https://github.com/RobertaBtt/JavaSudokuGame            |
+| https://github.com/RobertaBtt/JavaVendingMachine        |
+| https://github.com/RobertaBtt/JavaRestAPITopicSubscribe |
+| https://github.com/RobertaBtt/JavaContactsBirthday      |
+| https://github.com/RobertaBtt/JavaIntegersZipper        |
+| https://github.com/RobertaBtt/JavaHttpRandomHex         |
+| https://github.com/RobertaBtt/JavaFileSearch            |
 
 
 
@@ -86,4 +85,3 @@
 | https://github.com/RobertaBtt/venera              |
 
 
-![Logo_No_planetB](Logo_No_planet.png)
