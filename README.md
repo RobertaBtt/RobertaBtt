@@ -25,10 +25,10 @@
 
 _**I love studying !**_
 
-| Study  <img src="book.png" alt="book" style="width:60px;"/>  |
-|--------------------------------------------------------------|
-| [Data Engineering](DataEngineering%2FREADME.md)              |
-| [Artificial Itelligence](ArtificialIntelligence%2FREADME.md) |
+| Study  <img src="book.png" alt="book" style="width:60px;"/>                       |
+|-----------------------------------------------------------------------------------|
+| [Data Engineering](DataEngineering%2FREADME.md)                                   |
+| [Artificial Intelligence](https://github.com/RobertaBtt/Artificial_intelligence ) |
 
 _**I love solving problems !**_
 
