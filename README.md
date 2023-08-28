@@ -1,21 +1,16 @@
-
-![HelloFriendMrRobot](MrRobot.png)
-
-`This profile is Global Warming Aware ✔️`
-
- <img src="Logo_No_planet.png" alt="NoPlanetB" style="width:90px;"/>
+<img src="MrRobot.png" alt="MrRobot" style="width:230px;"/>
 
 ------------------------------------------------------------------
-- **B.Sc. Computer Science**
-- Software Engineer (mid-senior)
-- Student Master's degree in Artificial Intelligence. Model management and implementation
-- **Python** developer
-- **Data Engineer** student
+- **B.Sc. Computer Science ✔️**
+- Software Engineer 🤓
+- Python developer 🐍
+- Data Engineer curious 
+- Artificial Intelligence M.Sc. student 📓 
  
 ---------------------------------------------------------------------------
 
 
-| Work experiences     <img src="jobs.png" alt="work" style="width:50px;"/> |
+| Work experiences     <img src="jobs.png" alt="work" style="width:40px;"/> |
 |---------------------------------------------------------------------------|
 | [Consultancy](Cpgm_hp%2FREADME.md)                                        |
 | [Startup in Circular Economy](Verone%2FREADME.md)                         |

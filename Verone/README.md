@@ -1,6 +1,7 @@
 ![vrn.png](vrn.png)
 
-**Verone** was as startup active few years ago, in the Circular Economy related tu luxury product.
+**Verone** was as startup active few years ago, in the Circular Economy related to luxury products.
+
 What I've done there:
 
 - Redesigned in 3 months the whole e-commerce, developed Python modules
