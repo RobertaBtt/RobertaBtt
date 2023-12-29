@@ -10,13 +10,14 @@
 ---------------------------------------------------------------------------
 
 
-| Work experiences     <img src="jobs.png" alt="work" style="width:40px;"/> |
-|---------------------------------------------------------------------------|
-| [Consultancy](Cpgm_hp%2FREADME.md)                                        |
-| [Startup in Circular Economy](Verone%2FREADME.md)                         |
-| [Fintech startup](Touche%2FREADME.md)                                     |
-| [Energy Sector](Energy%2FREADME.md)                                       |
-| [Past jobs](jobs_2005_2016%2FREADME.md)                              |
+| Work experiences     <img src="jobs.png" alt="work" style="width:40px;"/>                    |
+|----------------------------------------------------------------------------------------------|
+| [Senior Sofware dev in Mitiga Solutions (**Climate**) 🌎 ](https://www.mitigasolutions.com/) |
+| [Senior Sofware dev in Capgemini (**Consultancy**) 👩‍💼 ](Cpgm_hp%2FREADME.md)              |
+|  [ Senior Sofware dev in Verone (**Circular Economy**) ♻](Verone%2FREADME.md)                 |
+| [Senior Sofware dev in Touché (**Fintech**) 💶](Touche%2FREADME.md)                          |
+| [Sofware dev in EnerMed (**Energy**) 🔌](Energy%2FREADME.md)                                  |
+| [Sofware dev - Past jobs](jobs_2005_2016%2FREADME.md)                                        |
 
 _**I love studying !**_
 
@@ -24,6 +25,8 @@ _**I love studying !**_
 |-----------------------------------------------------------------------------------|
 | [Data Engineering](DataEngineering%2FREADME.md)                                   |
 | [Artificial Intelligence](https://github.com/RobertaBtt/Artificial_intelligence ) |
+| [Software Engineer](https://github.com/RobertaBtt/SoftwareEngineering) |
+
 
 _**I love solving problems !**_
 
